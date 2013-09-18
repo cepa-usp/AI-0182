@@ -1,0 +1,7 @@
+h1. Polar coordinates
+
+It shows an object (person) and a reference frame with polar coordinates. User can move and rotate the reference frame and move the object. Polar coordinates are always shown.
+
+h3. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
